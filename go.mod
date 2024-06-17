@@ -2,7 +2,7 @@ module github.com/thenilesh/learn-gh-action
 
 go 1.22.3
 
-replace github.com/thenilesh/url-shortner => ../url-shortner
+replace github.com/thenilesh/url-shortner => ./url-shortner
 
 require github.com/thenilesh/url-shortner v0.0.0-00010101000000-000000000000
 
