@@ -1,4 +1,7 @@
 dist/**
 my-token
 terraform-provider-pf9
+url-shortner
+url-shortner/
+url-shortner/*
 url-shortner/**

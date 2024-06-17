@@ -53,6 +53,6 @@ checksum:
 #       - "${artifact}"
 release:
   # If you want to manually examine the release before its live, uncomment this line:
-  # draft: true
+  draft: true
 changelog:
   disable: true
